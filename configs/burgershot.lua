@@ -69,3 +69,31 @@ Config.DoorList['burgershot-burgershot5'] = {
     locked = true,
     doorLabel = 'registerdoor',
 }
+
+-- burgershot6 created by Doug Heffernan
+Config.DoorList['burgershot-burgershot6'] = {
+    objYaw = 34.19995880127,
+    objName = -626684119,
+    doorRate = 1.0,
+    doorType = 'door',
+    objCoords = vec3(-1182.526367, -895.906982, 14.123634),
+    authorizedJobs = { ['burgershot'] = 0 },
+    locked = true,
+    fixText = false,
+    distance = 2,
+    doorLabel = 'office',
+}
+
+-- burgershot7 created by Doug Heffernan
+Config.DoorList['burgershot-burgershot7'] = {
+    objYaw = 34.19995880127,
+    objName = 1289778077,
+    doorRate = 1.0,
+    doorType = 'door',
+    objCoords = vec3(-1185.332397, -897.814087, 14.123634),
+    authorizedJobs = { ['burgershot'] = 0 },
+    locked = true,
+    fixText = false,
+    distance = 2,
+    doorLabel = 'breakroom',
+}
