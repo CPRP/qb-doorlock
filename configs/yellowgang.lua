@@ -10,7 +10,7 @@ Config.DoorList['yellowgang-yellowgang1'] = {
     objName = -930593859,
     objCoords = vec3(956.454102, -137.840881, 73.574890),
     objYaw = 148.19989013672,
-    distance = 4,
+    distance = 6,
     fixText = false,
 }
 
