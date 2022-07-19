@@ -40,7 +40,7 @@ table.insert(Config.DoorList, {
 	authorizedJobs = { ['police'] = 0 },
 	lockpick = false,
 	fixText = true,
-	locked = true,
+	locked = false,
 	garage = false,
 	slides = false,		
 	-- oldMethod = true,
