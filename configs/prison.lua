@@ -153,7 +153,7 @@ table.insert(Config.DoorList, {
 	lockpick = false,
 	authorizedJobs = { ['police']=0 },
 	fixText = false,
-	locked = false,
+	locked = true,
 	audioRemote = false,
 	objCoords = vector3(1831.34, 2594.992, 46.03791),
 	garage = false,		
