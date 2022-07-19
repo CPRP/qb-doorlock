@@ -61,7 +61,7 @@ table.insert(Config.DoorList, {
 table.insert(Config.DoorList, {
 	garage = false,
 	lockpick = false,
-	locked = true,
+	locked = false,
 	objHash = -147325430,
 	audioRemote = false,
 	maxDistance = 2.0,
@@ -175,7 +175,7 @@ table.insert(Config.DoorList, {
 table.insert(Config.DoorList, {
 	garage = false,
 	lockpick = false,
-	locked = true,
+	locked = false,
 	objHash = -147325430,
 	audioRemote = false,
 	maxDistance = 2.0,
@@ -289,7 +289,7 @@ table.insert(Config.DoorList, {
 table.insert(Config.DoorList, {
 	garage = false,
 	lockpick = false,
-	locked = true,
+	locked = false,
 	objHash = -147325430,
 	audioRemote = false,
 	maxDistance = 2.0,
@@ -403,7 +403,7 @@ table.insert(Config.DoorList, {
 table.insert(Config.DoorList, {
 	garage = false,
 	lockpick = false,
-	locked = true,
+	locked = false,
 	objHash = -147325430,
 	audioRemote = false,
 	maxDistance = 2.0,
@@ -517,7 +517,7 @@ table.insert(Config.DoorList, {
 table.insert(Config.DoorList, {
 	garage = false,
 	lockpick = false,
-	locked = true,
+	locked = false,
 	objHash = -147325430,
 	audioRemote = false,
 	maxDistance = 2.0,
@@ -631,7 +631,7 @@ table.insert(Config.DoorList, {
 table.insert(Config.DoorList, {
 	garage = false,
 	lockpick = false,
-	locked = true,
+	locked = false,
 	objHash = -147325430,
 	audioRemote = false,
 	maxDistance = 2.0,
