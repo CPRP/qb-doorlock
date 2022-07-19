@@ -11,7 +11,7 @@ table.insert(Config.DoorList, {
 		{objHash = 733214349, objHeading = 134.99996948242, objCoords = vector3(-437.1717, 6012.947, 32.28851)} -- gabz_paletopd_doors05
 	},
 	maxDistance = 2.5,
-	locked = true,
+	locked = false,
 	audioRemote = false,
 	-- oldMethod = true,
 	-- audioLock = {['file'] = 'metal-locker.ogg', ['volume'] = 0.6},
