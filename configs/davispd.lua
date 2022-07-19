@@ -9,7 +9,7 @@ table.insert(Config.DoorList, {
  },
 	authorizedJobs = { ['police']=0 },
 	slides = false,
-	locked = true,
+	locked = false,
 	maxDistance = 2.5,
 	audioRemote = false,
 	lockpick = false,
