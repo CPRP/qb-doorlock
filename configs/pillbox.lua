@@ -47,7 +47,7 @@ table.insert(Config.DoorList, {
 	slides = false,
 	objHash = 854291622, -- gabz_pillbox_singledoor
 	authorizedJobs = { ['ambulance']=0 },
-	locked = true,
+	locked = false,
 	garage = false,
 	maxDistance = 2.0,
 	audioRemote = false,
@@ -62,7 +62,7 @@ table.insert(Config.DoorList, {
 -- Ward A - Surgery 1
 table.insert(Config.DoorList, {
 	authorizedJobs = { ['ambulance']=0 },
-	locked = true,
+	locked = false,
 	lockpick = false,
 	slides = false,
 	maxDistance = 2.5,
@@ -98,7 +98,7 @@ table.insert(Config.DoorList, {
 -- Ward A - Surgery 3
 table.insert(Config.DoorList, {
 	authorizedJobs = { ['ambulance']=0 },
-	locked = true,
+	locked = false,
 	lockpick = false,
 	slides = false,
 	maxDistance = 2.5,
@@ -116,7 +116,7 @@ table.insert(Config.DoorList, {
 -- Ward A - Intense care (usually respawn room)
 table.insert(Config.DoorList, {
 	authorizedJobs = { ['ambulance']=0 },
-	locked = true,
+	locked = false,
 	lockpick = false,
 	slides = false,
 	maxDistance = 2.5,
