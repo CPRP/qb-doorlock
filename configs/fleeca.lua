@@ -98,7 +98,7 @@ table.insert(Config.DoorList, {
 -- fleeca1 - vaultgate
 table.insert(Config.DoorList, {
 	garage = false,
-	lockpick = false,
+	lockpick = true,
 	locked = true,
 	objHash = -1591004109,
 	audioRemote = false,
@@ -212,7 +212,7 @@ table.insert(Config.DoorList, {
 -- fleeca2 - vaultgate
 table.insert(Config.DoorList, {
 	garage = false,
-	lockpick = false,
+	lockpick = true,
 	locked = true,
 	objHash = -1591004109,
 	audioRemote = false,
@@ -326,7 +326,7 @@ table.insert(Config.DoorList, {
 -- fleeca3 - vaultgate
 table.insert(Config.DoorList, {
 	garage = false,
-	lockpick = false,
+	lockpick = true,
 	locked = true,
 	objHash = -1591004109,
 	audioRemote = false,
@@ -440,7 +440,7 @@ table.insert(Config.DoorList, {
 -- fleeca4 - vaultgate
 table.insert(Config.DoorList, {
 	garage = false,
-	lockpick = false,
+	lockpick = true,
 	locked = true,
 	objHash = -1591004109,
 	audioRemote = false,
@@ -554,7 +554,7 @@ table.insert(Config.DoorList, {
 -- fleeca5 - vaultgate
 table.insert(Config.DoorList, {
 	garage = false,
-	lockpick = false,
+	lockpick = true,
 	locked = true,
 	objHash = -1591004109,
 	audioRemote = false,
@@ -668,7 +668,7 @@ table.insert(Config.DoorList, {
 -- fleeca6 - vaultgate
 table.insert(Config.DoorList, {
 	garage = false,
-	lockpick = false,
+	lockpick = true,
 	locked = true,
 	objHash = -1591004109,
 	audioRemote = false,
