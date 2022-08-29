@@ -7,7 +7,7 @@ table.insert(Config.DoorList, {
 	slides = false,
 	authorizedJobs = { 
 		['mechanic'] = 0,
-		['cardealer'] = 0,
+		['ottos'] = 0,
 	},
 	maxDistance = 2.0,
 	garage = false,
@@ -29,7 +29,7 @@ table.insert(Config.DoorList, {
 	slides = false,
 	authorizedJobs = { 
 		['mechanic'] = 0,
-		['cardealer'] = 0,
+		['ottos'] = 0,
 	},
 	maxDistance = 2.0,
 	garage = false,
@@ -51,7 +51,7 @@ table.insert(Config.DoorList, {
 	slides = false,
 	authorizedJobs = { 
 		['mechanic'] = 0,
-		['cardealer'] = 0,
+		['ottos'] = 0,
 	},
 	maxDistance = 2.0,
 	garage = false,
@@ -73,7 +73,7 @@ table.insert(Config.DoorList, {
 	slides = false,
 	authorizedJobs = { 
 		['mechanic'] = 0,
-		['cardealer'] = 0,
+		['ottos'] = 0,
 	},
 	maxDistance = 2.0,
 	garage = false,
@@ -95,7 +95,7 @@ table.insert(Config.DoorList, {
 	slides = false,
 	authorizedJobs = { 
 		['mechanic'] = 0,
-		['cardealer'] = 0,
+		['ottos'] = 0,
 	},
 	maxDistance = 2.0,
 	garage = false,
@@ -117,7 +117,7 @@ table.insert(Config.DoorList, {
 	slides = false,
 	authorizedJobs = { 
 		['mechanic'] = 0,
-		['cardealer'] = 0,
+		['ottos'] = 0,
 	},
 	maxDistance = 2.0,
 	garage = false,
@@ -139,7 +139,7 @@ table.insert(Config.DoorList, {
 	slides = false,
 	authorizedJobs = { 
 		['mechanic'] = 0,
-		['cardealer'] = 0,
+		['ottos'] = 0,
 	},
 	maxDistance = 2.0,
 	garage = false,
@@ -161,7 +161,7 @@ table.insert(Config.DoorList, {
 	slides = false,
 	authorizedJobs = { 
 		['mechanic'] = 0,
-		['cardealer'] = 0,
+		['ottos'] = 0,
 	},
 	maxDistance = 2.0,
 	garage = false,
@@ -183,7 +183,7 @@ table.insert(Config.DoorList, {
 	slides = false,
 	authorizedJobs = { 
 		['mechanic'] = 0,
-		['cardealer'] = 0,
+		['ottos'] = 0,
 	},
 	maxDistance = 2.0,
 	garage = false,
@@ -205,7 +205,7 @@ table.insert(Config.DoorList, {
 	slides = false,
 	authorizedJobs = { 
 		['mechanic'] = 0,
-		['cardealer'] = 0,
+		['ottos'] = 0,
 	},
 	maxDistance = 2.0,
 	garage = false,
@@ -227,7 +227,7 @@ table.insert(Config.DoorList, {
 	slides = false,
 	authorizedJobs = { 
 		['mechanic'] = 0,
-		['cardealer'] = 0,
+		['ottos'] = 0,
 	},
 	maxDistance = 2.0,
 	garage = false,
@@ -249,7 +249,7 @@ table.insert(Config.DoorList, {
 	slides = false,
 	authorizedJobs = { 
 		['mechanic'] = 0,
-		['cardealer'] = 0,
+		['ottos'] = 0,
 	},
 	maxDistance = 2.0,
 	garage = false,
@@ -271,7 +271,7 @@ table.insert(Config.DoorList, {
 	slides = false,
 	authorizedJobs = { 
 		['mechanic'] = 0,
-		['cardealer'] = 0,
+		['ottos'] = 0,
 	},
 	maxDistance = 2.0,
 	garage = false,
@@ -293,7 +293,7 @@ table.insert(Config.DoorList, {
 	slides = false,
 	authorizedJobs = { 
 		['mechanic'] = 0,
-		['cardealer'] = 0,
+		['ottos'] = 0,
 	},
 	maxDistance = 2.0,
 	garage = false,
