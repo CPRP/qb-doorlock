@@ -121,7 +121,10 @@ table.insert(Config.DoorList, {
 table.insert(Config.DoorList, {
 	slides = true,
 	objHeading = 180.00001525878,
-	authorizedJobs = { ['mechanic']=0 },
+	authorizedJobs = { 
+		['mechanic'] = 0,
+		['police'] = 0,
+	},
 	garage = false,
 	maxDistance = 9.0,
 	audioRemote = false,
