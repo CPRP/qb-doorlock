@@ -57,7 +57,7 @@ Config.DoorList = {
 		authorizedJobs = { 'police' },
 		objYaw = -110.0,
 		locked = true,
-		pickable = false,
+		pickable = true,
 		distance = 1.5,
 	},
 	--door2 for pacific opened with thermite right near the vault door
