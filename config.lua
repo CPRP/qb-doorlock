@@ -50,6 +50,7 @@ Config.DoorList['configname-identifier'] = {
 
 Config.DoorStates = {}
 Config.DoorList = {
+	--door1 gate door next to stairs Security Card B
 	{
 		objName = 'hei_v_ilev_bk_gate2_pris',
 		objCoords  = vec3(261.83, 221.39, 106.41),
@@ -57,7 +58,7 @@ Config.DoorList = {
 		authorizedJobs = { 'police' },
 		objYaw = -110.0,
 		locked = true,
-		pickable = true,
+		pickable = false,
 		distance = 1.5,
 	},
 	--door2 for pacific opened with thermite right near the vault door
@@ -107,8 +108,8 @@ Config.DoorList = {
 	-- First Pacific Door opened with lockpick
 	{
 		objName = 'hei_v_ilev_bk_gate_pris',
-		objCoords  = vec3(257.41, 220.25, 106.4),
-		textCoords = vec3(257.41, 220.25, 106.4),
+		objCoords  = vec3(256.31, 220.66, 106.43),
+		textCoords = vec3(256.31, 220.66, 106.43),
 		authorizedJobs = { 'police' },
 		objYaw = -20.0,
 		locked = true,
